@@ -54,7 +54,7 @@ I care about **system design, clean code, code quality, testing, and building so
 
 ## GitHub Stats
 
-![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidgabri\&show_icons=true\&theme=tokyonight)
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidgabri&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidgabri\&layout=compact\&theme=tokyonight)
 
